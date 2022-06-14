@@ -1,0 +1,3 @@
+My first master file.
+touch name.txt(To create)
+notepad name.txt(To open using notepad)
